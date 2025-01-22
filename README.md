@@ -9,8 +9,6 @@ This React Native app allows users to explore and filter characters from the pop
 - Navigate to individual character details
 - Pagination support for loading more characters
 
-[![App Screenshot](https://github.com/ruelbelmonte/RickAndMortyExplorer/screenshots/HomeScreen.png){width=300 height=200}]()
-
 ### Getting Started
 
 To run this app:
