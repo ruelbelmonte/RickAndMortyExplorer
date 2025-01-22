@@ -9,7 +9,7 @@ This React Native app allows users to explore and filter characters from the pop
 - Navigate to individual character details
 - Pagination support for loading more characters
 
-![screenshot](screenshots/HomeScreen.png)
+[![App Screenshot](screenshots/HomeScreen.png){width=300 height=200}]()
 
 ### Getting Started
 
