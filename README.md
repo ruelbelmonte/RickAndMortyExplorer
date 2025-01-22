@@ -23,9 +23,9 @@ To run this app:
 The app follows a modular structure with the following main folders:
 
 - <kbd>components</kbd>: React Native components
-- <kbd>screens</kbd>: Main screens of the app
 - <kbd>hooks</kbd>: Custom hooks for data fetching and state management
 - <kbd>navigation</kbd>: Navigation configuration
+- <kbd>services</kbd>: External service-related code (e.g., API clients)
 - <kbd>types</kbd>: TypeScript types for the app
 
 #### License
